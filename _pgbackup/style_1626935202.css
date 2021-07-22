@@ -1,0 +1,50 @@
+html {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.principal {
+    margin-top: 15vh;
+}
+
+.subtitles {
+    font-size: 2vw;
+    text-align: center;
+}
+
+.maxwidth {
+    max-width: 1200px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    border-radius: 20px;
+    box-shadow: rgb(236 7 7) 0px 0px 15px 0px;
+    background-color: black;
+}
+
+.principal {
+    background-color: red;
+}
+
+h1 {
+    font-size: 2vmax;
+}
+
+p {
+    font-size: 1.5vmax;
+}
+
+.sabiasque {
+    max-width: 500px;
+}

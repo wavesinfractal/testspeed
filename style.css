@@ -1,0 +1,68 @@
+:root {
+    --secundario: rgba(236, 7, 7, 0.5);
+}
+
+.title {
+    background-color: var(--secundario);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+html {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.principal {
+    margin-top: 15vh;
+}
+
+.subtitles {
+    font-size: 2vw;
+    text-align: center;
+}
+
+.maxwidth {
+    max-width: 1000px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    border-radius: 1vh;
+    box-shadow: rgb(236 7 7) 0px 0px 15px 0px;
+    background-color: black;
+    margin-bottom: 2rem;
+}
+
+.principal {
+    background-color: red;
+}
+
+h1 {
+    font-size: 2vmax;
+}
+
+p {
+    font-size: 1.5vmax;
+}
+
+.sabiasque {
+    max-width: 500px;
+}

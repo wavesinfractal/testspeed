@@ -1,0 +1,24 @@
+.principal {
+    margin-top: 15vh;
+}
+
+.subtitles {
+    font-size: 2vw;
+    text-align: center;
+}
+
+.maxwidth {
+    max-width: 1200px;
+}
+
+.principal {
+    background-color: red;
+}
+
+h1 {
+    font-size: 4vw;
+}
+
+.sabiasque {
+    max-width: 500px;
+}
